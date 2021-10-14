@@ -31,7 +31,7 @@ happy = (i) => {
             }
         }
         if (endErgeb > 1) {
-            console.log("Not Happy, to bad, try other number :)");
+            console.log("Not Happy, to bad, try other numbers :)");
         }
     }
 }
