@@ -5,7 +5,7 @@ happy = (i) => {
     var multip = [];
 
     if (i < 10 || i > 20) {
-        console.log("Number must be between 10 and 20, pls change");
+        console.log("Number must be between 10 and 20, please change :)");
     } else {
         number = i;
         for (var x = 0; x < 50; x++) {
@@ -31,7 +31,7 @@ happy = (i) => {
             }
         }
         if (endErgeb > 1) {
-            console.log("Not Happy, to bad, try other number, Bernhard i did it!");
+            console.log("Not Happy, to bad, try other number :)");
         }
     }
 }
